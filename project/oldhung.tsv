@@ -1,0 +1,54 @@
+v	v
+l	l
+k	k
+ſ	s
+r	r
+d	d
+n	n
+b	b
+ʒ	z
+p	p
+m	m
+w	v
+g	g
+gg	gy
+l	l
+th	t
+t	t
+sc	sz
+ch	cs
+h	h
+ſc	sz
+qu	k
+ll	l
+gh	gy
+o	a
+ſc	sz
+vh	jaj
+olelothya	alélása
+uila ga	világa
+hioll	hull
+kyth	kit
+felleyn	féljen
+eʒes	édes
+maraggun	maradjon
+illen	éljen
+egge dum	egyetlenem
+en iuhum	szívem
+en iumhumnok bel bua	szívem belső fájdalma
+beʒʒeg	biztos
+ere	elért
+eſes	édes
+urodū	uram
+es	és
+iū hum alelatya	###
+vogmuc	vagyunk
+gimilſ	gyümölcs
+([^aeioungtdl])(y)([^aeiou])	\g<1>i\g<3> 
+
+
+#Problems: no ny, y is i and j, vowel length, sometime u is a v, no ly
+#there have been vowel and entire word changes, how to deal with that?
+#uppercase and lower case?
+#accents?
+#lots of random vowel changes

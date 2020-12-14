@@ -29,10 +29,6 @@ while line:
 	print(form)
 	line = sys.stdin.readline()
 	
-#look up each of the characters in the lookup table
 
-#code for issues mentioned in oldhung?
 
-#replace?
 
-#printout the line with transcription

@@ -1,3 +1,4 @@
+z	z
 v	v
 l	l
 k	k
@@ -12,6 +13,7 @@ m	m
 w	v
 g	g
 gg	gy
+ſ	s
 l	l
 th	t
 t	t
@@ -40,11 +42,92 @@ beʒʒeg	biztos
 ere	elért
 eſes	édes
 urodū	uram
+mic	mik
+miv	mi
 es	és
 iū hum alelatya	###
 vogmuc	vagyunk
+uogmuc	vagyunk
+pur	por
+lelic ert	lélekért
+ia	ja
+wt	őt
+meret	miért
+zumtuchel	szemetekkel
+wimagguc	imádjuk
+vimagguc	imádjuk
+uimagguc	imádjuk
 gimilſ	gyümölcs
 ([^aeioungtdl])(y)([^aeiou])	\g<1>i\g<3> 
+wt	őt
+Horoguvec	Haraguvék
+nec	nek
+nac	nak
+ordog	ördög
+miloſtben	malasztban
+hazóá	házzá
+iochtotnia	iktatnia
+tiv	ti
+lilki ert	lelkéért
+intetvinec	intetének
+num	nem
+heon	heon
+igg	egy
+Kegug gethuk	kegyelmezzetek meg
+Sydou	Zsidó
+yg	így
+Tuled ualmun	Ne váljak el tőled
+owog	avagy
+anyath	Anyát
+gh	gy
+Hug	Hogy
+nopun	napon
+hug	hogy
+ig	egy
+ý	i
+í	i
+evec	evék
+odutta	adta
+levn	lőn
+halal	halál
+bovdug	boldog
+iorgoſſun	irgalmazzon
+pucul	pokol
+kinzotviatwl	kínzatától
+mend	mind
+holz	halsz
+ge feledeve	de feledé
+mív	mi
+iſemucut	ősünket
+choltat	holtát
+ivtua	jutva
+qu	k
+meʒuul	mint a méz
+eʒes	édes
+Scegenul	megrútul
+ſcepſegud	szépségüd
+nym	nem
+hioll	hull
+vizeül	véred
+vírüd	vízként
+ygoʒ	igaz
+ſumha	soha
+foianec	fajának
+uromc	urunk
+ſcegin	szegény
+munda	mondá
+mulchotia	múlhatja
+vermut	vermet
+keaſſatuc	kiáltsátok
+uromchuz	urunkhoz
+ſzen	szent
+achſcin	azzony
+legenec	legyenek
+kyt niha egyre	amit egykor jövendölt
+en iumhumnok bel bua	szívem belső fájdalma
+egembelu ullyetuk	Együtt öljétek meg
+ulud	ölöd
+
 
 
 #Problems: no ny, y is i and j, vowel length, sometime u is a v, no ly
